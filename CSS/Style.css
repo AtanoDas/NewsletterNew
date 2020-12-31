@@ -1,0 +1,142 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+a{
+	text-decoration: none;
+}
+.holder{
+	background-color: black;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 20px;
+
+}
+.holder ul li{
+	list-style: none;
+	display: inline-block;
+	margin: 0 15px;
+}
+.holder ul li a{
+	color: white;
+	font-size: 15px;
+
+}
+.holder ul li a:hover{
+	color: yellow;
+	cursor: pointer;
+}
+.newsletter{
+	background-color: #f5f5f5;
+	padding-top: 60px;
+	padding-bottom: 70px;
+}
+.container{
+	width: 590px;
+	margin: auto;
+	text-align: center;
+}
+.newletter h1{
+	font-size: 24px;
+	margin-bottom: 20px;
+}
+.newsletter p{
+	font-size: 12px;
+	margin-bottom: 15px;
+
+}
+.input-1{
+	width: 28%;
+	padding: 4px;
+
+}
+.input-2{
+	width: 34%;
+	padding: 4px;
+
+
+}
+.input-3{
+	width: 18%;
+	padding: 4px;
+	background-color: #d2f6fe;
+	border-radius: 2px;
+	border: none;
+
+}
+.input-3:hover{
+	background-color: red;
+	cursor: pointer;
+	border-radius: 2px;
+	border: none;
+
+}
+.letstalk{
+	background-color: #d2f6fe;
+	padding-bottom: 40px;
+}
+.container2{
+	width: 590px;
+	margin: auto;
+	text-align: center;
+}
+.letstalk h1{
+	font-size: 24px;
+	margin-bottom: 15px;
+}
+.letstalk p{
+	font-size: 12px;
+	margin-bottom: 10px;
+}
+
+.input-4{
+	width: 40%;
+	padding: 4px;
+	margin: 5px;
+
+}
+.input-5{
+	width: 40%;
+	padding: 4px;
+	margin: 5px;
+
+
+}
+.input-6{
+	width: 40%;
+	padding: 4px;
+	margin: 5px;
+
+}
+.input-7{
+	width: 40%;
+	padding: 4px;
+	margin: 5px;
+	
+
+}
+.input-8{
+	width: 82%;
+	padding: 11px;
+	margin-bottom: 15px;
+	height: 120px;
+
+
+}
+.input-9{
+	width: 20%;
+	padding: 4px;
+	margin-bottom: 15px; 
+	margin-right: 390px;
+	background-color: tomato;
+	border-radius: 5px;
+	border:none;
+
+	
+
+}
+.input-9:hover{
+	background-color: white;
+	color: black;
+	cursor: pointer;
+}
